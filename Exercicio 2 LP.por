@@ -4,7 +4,7 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Digite o numero da tapuada que deseja: ")
+		escreva("Digite o numero da tabuada que deseja: ")
 		leia(Ntabuada)
 		limpa()
 
